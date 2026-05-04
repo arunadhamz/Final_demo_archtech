@@ -1,0 +1,11 @@
+1.Probelm with document genration not using requirements.
+2.Manitain workspace for seperate database and give proper user authentication methodto handle the workspace files to fetch the older workspcae based
+3.remove generate requiments button from software ui,
+remove the firmware and system config tabs from the system ,hardware ui
+4.Extracted requirements not links with generated documents
+5. what ever documents generation it ccreates only SRS documents, i need to cretea a mentioned docs.
+6. Export option remove the odt , use pandoc for odt file generatation
+7.In code generation part, code is not generating for listed out requirment interfaces and protcols and give export option for zip and tar with entire generated code directory.
+8.In Schematics and Architeecture part, i need a visio like editor for block diagram generation.
+
+do the implementation above given inputs, correct and update the codes propely without any error need to run.
